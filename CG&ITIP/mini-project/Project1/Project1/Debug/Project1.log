@@ -1,0 +1,85 @@
+﻿  main.cpp
+C:\Users\Admin\Desktop\6th-sem-notes\CG&ITIP\mini-project\Project1\Project1\main.cpp(204,7): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Admin\Desktop\6th-sem-notes\CG&ITIP\mini-project\Project1\Project1\main.cpp(219,4): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Admin\Desktop\6th-sem-notes\CG&ITIP\mini-project\Project1\Project1\main.cpp(222,4): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Admin\Desktop\6th-sem-notes\CG&ITIP\mini-project\Project1\Project1\main.cpp(250,2): error C2664: 'void storeObj(char *,Object *)': cannot convert argument 1 from 'const char [13]' to 'char *'
+  C:\Users\Admin\Desktop\6th-sem-notes\CG&ITIP\mini-project\Project1\Project1\main.cpp(250,11):
+  Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+  C:\Users\Admin\Desktop\6th-sem-notes\CG&ITIP\mini-project\Project1\Project1\main.cpp(199,6):
+  see declaration of 'storeObj'
+  C:\Users\Admin\Desktop\6th-sem-notes\CG&ITIP\mini-project\Project1\Project1\main.cpp(250,2):
+  while trying to match the argument list '(const char [13], Object *)'
+  
+C:\Users\Admin\Desktop\6th-sem-notes\CG&ITIP\mini-project\Project1\Project1\main.cpp(260,2): error C2664: 'void storeObj(char *,Object *)': cannot convert argument 1 from 'const char [15]' to 'char *'
+  C:\Users\Admin\Desktop\6th-sem-notes\CG&ITIP\mini-project\Project1\Project1\main.cpp(260,11):
+  Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+  C:\Users\Admin\Desktop\6th-sem-notes\CG&ITIP\mini-project\Project1\Project1\main.cpp(199,6):
+  see declaration of 'storeObj'
+  C:\Users\Admin\Desktop\6th-sem-notes\CG&ITIP\mini-project\Project1\Project1\main.cpp(260,2):
+  while trying to match the argument list '(const char [15], Object *)'
+  
+C:\Users\Admin\Desktop\6th-sem-notes\CG&ITIP\mini-project\Project1\Project1\main.cpp(269,2): error C2664: 'void storeObj(char *,Object *)': cannot convert argument 1 from 'const char [13]' to 'char *'
+  C:\Users\Admin\Desktop\6th-sem-notes\CG&ITIP\mini-project\Project1\Project1\main.cpp(269,11):
+  Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+  C:\Users\Admin\Desktop\6th-sem-notes\CG&ITIP\mini-project\Project1\Project1\main.cpp(199,6):
+  see declaration of 'storeObj'
+  C:\Users\Admin\Desktop\6th-sem-notes\CG&ITIP\mini-project\Project1\Project1\main.cpp(269,2):
+  while trying to match the argument list '(const char [13], Object *)'
+  
+C:\Users\Admin\Desktop\6th-sem-notes\CG&ITIP\mini-project\Project1\Project1\main.cpp(279,2): error C2664: 'void storeObj(char *,Object *)': cannot convert argument 1 from 'const char [17]' to 'char *'
+  C:\Users\Admin\Desktop\6th-sem-notes\CG&ITIP\mini-project\Project1\Project1\main.cpp(279,11):
+  Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+  C:\Users\Admin\Desktop\6th-sem-notes\CG&ITIP\mini-project\Project1\Project1\main.cpp(199,6):
+  see declaration of 'storeObj'
+  C:\Users\Admin\Desktop\6th-sem-notes\CG&ITIP\mini-project\Project1\Project1\main.cpp(279,2):
+  while trying to match the argument list '(const char [17], Object *)'
+  
+C:\Users\Admin\Desktop\6th-sem-notes\CG&ITIP\mini-project\Project1\Project1\main.cpp(289,2): error C2664: 'void storeObj(char *,Object *)': cannot convert argument 1 from 'const char [17]' to 'char *'
+  C:\Users\Admin\Desktop\6th-sem-notes\CG&ITIP\mini-project\Project1\Project1\main.cpp(289,11):
+  Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+  C:\Users\Admin\Desktop\6th-sem-notes\CG&ITIP\mini-project\Project1\Project1\main.cpp(199,6):
+  see declaration of 'storeObj'
+  C:\Users\Admin\Desktop\6th-sem-notes\CG&ITIP\mini-project\Project1\Project1\main.cpp(289,2):
+  while trying to match the argument list '(const char [17], Object *)'
+  
+C:\Users\Admin\Desktop\6th-sem-notes\CG&ITIP\mini-project\Project1\Project1\main.cpp(299,2): error C2664: 'void storeObj(char *,Object *)': cannot convert argument 1 from 'const char [17]' to 'char *'
+  C:\Users\Admin\Desktop\6th-sem-notes\CG&ITIP\mini-project\Project1\Project1\main.cpp(299,11):
+  Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+  C:\Users\Admin\Desktop\6th-sem-notes\CG&ITIP\mini-project\Project1\Project1\main.cpp(199,6):
+  see declaration of 'storeObj'
+  C:\Users\Admin\Desktop\6th-sem-notes\CG&ITIP\mini-project\Project1\Project1\main.cpp(299,2):
+  while trying to match the argument list '(const char [17], Object *)'
+  
+C:\Users\Admin\Desktop\6th-sem-notes\CG&ITIP\mini-project\Project1\Project1\main.cpp(308,2): error C2664: 'void storeObj(char *,Object *)': cannot convert argument 1 from 'const char [18]' to 'char *'
+  C:\Users\Admin\Desktop\6th-sem-notes\CG&ITIP\mini-project\Project1\Project1\main.cpp(308,11):
+  Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+  C:\Users\Admin\Desktop\6th-sem-notes\CG&ITIP\mini-project\Project1\Project1\main.cpp(199,6):
+  see declaration of 'storeObj'
+  C:\Users\Admin\Desktop\6th-sem-notes\CG&ITIP\mini-project\Project1\Project1\main.cpp(308,2):
+  while trying to match the argument list '(const char [18], Object *)'
+  
+C:\Users\Admin\Desktop\6th-sem-notes\CG&ITIP\mini-project\Project1\Project1\main.cpp(318,2): error C2664: 'void storeObj(char *,Object *)': cannot convert argument 1 from 'const char [18]' to 'char *'
+  C:\Users\Admin\Desktop\6th-sem-notes\CG&ITIP\mini-project\Project1\Project1\main.cpp(318,11):
+  Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+  C:\Users\Admin\Desktop\6th-sem-notes\CG&ITIP\mini-project\Project1\Project1\main.cpp(199,6):
+  see declaration of 'storeObj'
+  C:\Users\Admin\Desktop\6th-sem-notes\CG&ITIP\mini-project\Project1\Project1\main.cpp(318,2):
+  while trying to match the argument list '(const char [18], Object *)'
+  
+C:\Users\Admin\Desktop\6th-sem-notes\CG&ITIP\mini-project\Project1\Project1\main.cpp(241,7): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Admin\Desktop\6th-sem-notes\CG&ITIP\mini-project\Project1\Project1\main.cpp(242,8): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Admin\Desktop\6th-sem-notes\CG&ITIP\mini-project\Project1\Project1\main.cpp(251,2): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Admin\Desktop\6th-sem-notes\CG&ITIP\mini-project\Project1\Project1\main.cpp(254,2): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Admin\Desktop\6th-sem-notes\CG&ITIP\mini-project\Project1\Project1\main.cpp(263,2): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Admin\Desktop\6th-sem-notes\CG&ITIP\mini-project\Project1\Project1\main.cpp(270,2): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Admin\Desktop\6th-sem-notes\CG&ITIP\mini-project\Project1\Project1\main.cpp(273,2): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Admin\Desktop\6th-sem-notes\CG&ITIP\mini-project\Project1\Project1\main.cpp(280,2): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Admin\Desktop\6th-sem-notes\CG&ITIP\mini-project\Project1\Project1\main.cpp(283,2): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Admin\Desktop\6th-sem-notes\CG&ITIP\mini-project\Project1\Project1\main.cpp(290,2): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Admin\Desktop\6th-sem-notes\CG&ITIP\mini-project\Project1\Project1\main.cpp(293,2): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Admin\Desktop\6th-sem-notes\CG&ITIP\mini-project\Project1\Project1\main.cpp(302,2): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Admin\Desktop\6th-sem-notes\CG&ITIP\mini-project\Project1\Project1\main.cpp(309,2): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Admin\Desktop\6th-sem-notes\CG&ITIP\mini-project\Project1\Project1\main.cpp(312,2): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Admin\Desktop\6th-sem-notes\CG&ITIP\mini-project\Project1\Project1\main.cpp(319,2): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Admin\Desktop\6th-sem-notes\CG&ITIP\mini-project\Project1\Project1\main.cpp(322,2): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Admin\Desktop\6th-sem-notes\CG&ITIP\mini-project\Project1\Project1\main.cpp(332,1): warning C4326: return type of 'main' should be 'int' instead of 'void'

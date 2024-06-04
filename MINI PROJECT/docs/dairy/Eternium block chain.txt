@@ -1,0 +1,23 @@
+Eternium block chain
+Eternium NFT is a decentralized financial payment network that rebuilds the traditional payment stack on the blockchain. It utilizes a basket of fiat-pegged stablecoins, algorithmically stabilized by its reserve currency Eternium, to facilitate programmable payments and open financial infrastructure development.
+
+Key Features
+
+Decentralized financial payment network
+Utilizes a basket of fiat-pegged stablecoins
+Algorithmically stabilized by reserve currency Eternium
+Facilitates programmable payments and open financial infrastructure development
+Has transacted an estimated $299 billion for over 2 million users as of December 2020
+Game Connection
+
+Eternium is also the name of a popular action RPG game, which has a separate FAQ section that provides information on gameplay mechanics, character skills, and equipment. The game’s FAQ mentions the use of blocks, parries, and dodges in combat, but it does not directly relate to the Eternium block chain.
+
+Block Chain Use
+
+The search results also mention the term “Eternium block” in a separate snippet, which appears to be related to the use of blocks as cases in machines. However, there is no direct connection between this use of “Eternium block” and the Eternium block chain.
+
+Critical Block
+
+In the context of the game Eternium, a critical block is mentioned in a Reddit post as a 50-75% damage reduction. However, this term is not directly related to the Eternium block chain.
+
+In summary, the Eternium block chain is a decentralized financial payment network that utilizes a basket of fiat-pegged stablecoins and algorithmically stabilized by its reserve currency Eternium. It has no direct connection to the game Eternium or the use of blocks as cases in machines.

@@ -1,0 +1,11 @@
+steps to create Candid Ul
+------->> get Candid UI id : from this command {dfx canister id __Candid_UI} note: dfx deploy
+
+
+[candid ui id :r7inp-6aaaa-aaaaa-aaabq-cai]
+
+get project id : {dfx canister call dbank topUp}
+
+  go to this local host
+ http://127.0.0.1:8000//?canisterId=r7inp-6aaaa-aaaaa-aaabq-cai&id=rrkah-fqaaa-aaaaa-aaaaq-cai
+rrkah-fqaaa-aaaaa-aaaaq-cai
