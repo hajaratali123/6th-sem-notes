@@ -1,0 +1,3 @@
+﻿  FileName.cpp
+C:\Users\Admin\Desktop\6th-sem-notes\CG&ITIP\lab_CIE\2d_transformation\2d_transformation\FileName.cpp(64,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  2d_transformation.vcxproj -> C:\Users\Admin\Desktop\6th-sem-notes\CG&ITIP\lab_CIE\2d_transformation\Debug\2d_transformation.exe

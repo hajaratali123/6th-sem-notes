@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\6th-sem-notes\\CG\u0026ITIP\\mini-project\\Project45456\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBDD1824-B44F-4EA3-B48B-DECD382EE57E}|Project45456\\Project45456.vcxproj|C:\\Users\\Admin\\Desktop\\6th-sem-notes\\CG\u0026ITIP\\mini-project\\Project45456\\Project45456\\FileName1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EBDD1824-B44F-4EA3-B48B-DECD382EE57E}|Project45456\\Project45456.vcxproj|solutionrelative:Project45456\\FileName1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBDD1824-B44F-4EA3-B48B-DECD382EE57E}|Project45456\\Project45456.vcxproj|C:\\Users\\Admin\\Desktop\\6th-sem-notes\\CG\u0026ITIP\\mini-project\\Project45456\\Project45456\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EBDD1824-B44F-4EA3-B48B-DECD382EE57E}|Project45456\\Project45456.vcxproj|solutionrelative:Project45456\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName1.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\6th-sem-notes\\CG\u0026ITIP\\mini-project\\Project45456\\Project45456\\FileName1.cpp",
+              "RelativeDocumentMoniker": "Project45456\\FileName1.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\6th-sem-notes\\CG\u0026ITIP\\mini-project\\Project45456\\Project45456\\FileName1.cpp",
+              "RelativeToolTip": "Project45456\\FileName1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-02T16:26:03.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileName.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\6th-sem-notes\\CG\u0026ITIP\\mini-project\\Project45456\\Project45456\\FileName.cpp",
+              "RelativeDocumentMoniker": "Project45456\\FileName.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\6th-sem-notes\\CG\u0026ITIP\\mini-project\\Project45456\\Project45456\\FileName.cpp",
+              "RelativeToolTip": "Project45456\\FileName.cpp",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAEQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-02T16:24:15.711Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

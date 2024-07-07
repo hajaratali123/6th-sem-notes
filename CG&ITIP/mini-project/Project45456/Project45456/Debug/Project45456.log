@@ -1,0 +1,3 @@
+﻿  FileName.cpp
+C:\Users\Admin\Desktop\6th-sem-notes\CG&ITIP\mini-project\Project45456\Project45456\FileName.cpp(64,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Project45456.vcxproj -> C:\Users\Admin\Desktop\6th-sem-notes\CG&ITIP\mini-project\Project45456\Debug\Project45456.exe
