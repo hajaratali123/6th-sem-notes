@@ -166,33 +166,13 @@ def apply_dilation():
 # Function to apply erosion
 def apply_erosion():
     global img
-    kernel = cv2.getStructuringElement(cv2.MORPH_RECT, (5, 5))
+    kernel = cv2.getStructuringElement(cv2.MORPH_RECT, (4, 4))
     img_eroded = cv2.erode(img, kernel, iterations=1)
     image_stack.append(img_eroded.copy())
     display_image(img_eroded)
     img = img_eroded
 
-# Function to detect faces
-def detect_faces():
-    global img
-    if img is None:
-        messagebox.showerror("Error", "No image loaded.")
-        return
-    face_cascade = cv2.CascadeClassifier(cv2.data.haarcascades + 'haarcascade_frontalface_default.xml')
-    if face_cascade.empty():
-        messagebox.showerror("Error", "Failed to load face cascade classifier.")
-        return
-    gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
-    faces = face_cascade.detectMultiScale(gray, scaleFactor=1.1, minNeighbors=5, minSize=(30, 30))
-    img_faces = img.copy()
-    if len(faces) == 0:
-        messagebox.showinfo("Info", "No faces detected.")
-    else:
-        for (x, y, w, h) in faces:
-            cv2.rectangle(img_faces, (x, y), (x+w, y+h), (255, 0, 0), 2)
-    image_stack.append(img_faces.copy())
-    display_image(img_faces)
-    img = img_faces
+
 
 # Function to save the image
 def save_image():
@@ -306,8 +286,7 @@ btn_dilate.pack(side=tk.LEFT, padx=5)
 btn_erode = tk.Button(frame_filters, text="Erosion", command=apply_erosion)
 btn_erode.pack(side=tk.LEFT, padx=5)
 
-btn_faces = tk.Button(frame_filters, text="Detect Faces", command=detect_faces)
-btn_faces.pack(side=tk.LEFT, padx=5)
+
 
 frame_adjustments = tk.Frame(frame, bg='#f0f0f0')
 frame_adjustments.pack(pady=10)
@@ -339,3 +318,13 @@ btn_save.pack(pady=10)
 
 # Run the Tkinter event loop
 root.mainloop()
+
+
+
+
+
+
+
+
+
+bit.ly/cgb3

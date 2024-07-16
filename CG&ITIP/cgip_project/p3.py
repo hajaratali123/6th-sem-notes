@@ -214,7 +214,7 @@ def update_brightness_contrast(val):
 
 # Initialize the Tkinter window
 root = tk.Tk()
-root.title("Advanced Image Editor")
+root.title("Interactive Image Processing")
 
 # Set initial window size
 root.geometry("1200x600")
