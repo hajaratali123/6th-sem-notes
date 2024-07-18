@@ -1,0 +1,27 @@
+public class StringParsingExample {
+    public static void main(String[] args) {
+        // Parsing String to int using parseInt
+        String numberStr1 = "123";
+        int number1 = Integer.parseInt(numberStr1);
+        System.out.println("Parsed int using parseInt: " + number1);
+
+        // Parsing String to Integer using valueOf
+        String numberStr2 = "456";
+        Integer number2 = Integer.valueOf(numberStr2);
+        System.out.println("Parsed Integer using valueOf: " + number2);
+
+        // Converting int to String using toString
+        int number3 = 789;
+        String numberStr3 = Integer.toString(number3);
+        System.out.println("Converted int to String using toString: " + numberStr3);
+
+        // Converting Integer to String using toString
+        Integer number4 = 101112;
+        String numberStr4 = number4.toString();
+        System.out.println("Converted Integer to String using toString: " + numberStr4);
+
+        // Another way to convert int to String using String.valueOf
+        String numberStr5 = String.valueOf(number3);
+        System.out.println("Converted int to String using String.valueOf: " + numberStr5);
+    }
+}
