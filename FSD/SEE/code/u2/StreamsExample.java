@@ -16,6 +16,6 @@ public class StreamsExample {
         names.stream().map(String::toUpperCase).forEach(System.out::println); // Uncommenting this line will cause an exception
 
         // Adding a new element (not possible directly with streams)
-        names.add("David"); // Uncommenting this line will cause an UnsupportedOperationException
+       // names.add("David"); // Uncommenting this line will cause an UnsupportedOperationException
     }
 }
